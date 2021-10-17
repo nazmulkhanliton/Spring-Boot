@@ -1,4 +1,7 @@
+Java Jersey project tracks the JAX-RS API, which is used to create Restful web services in Java.
+
 RESTful Web Services - Java (JAX-RS)
+
 Annotation- 
 
 1 @Path - Relative path of the resource class/method.
